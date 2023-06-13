@@ -1,0 +1,25 @@
+1. watch youtube about amazon s3
+
+2. import songs into s3
+
+3. import metadata from songs into songs table in mysql
+
+4. setup tables for playlist, playlistsongs, songs, and users in mysql,
+
+5. make sure there is enough songs in s3 for proper implimentation, 10 songs each genre
+
+6. change function in modal to where data is pulled from s3 and not arrays in react app
+
+7. test out functionality of songs being added
+
+8. save the created playlist full of songs to mysql database under the user that is signed in
+
+9. in beat tapes component, display the playlist made
+
+10. cover art for playlists and songs
+
+11. this app could possibly be a beat store
+
+12. could impliment stripe if app turns into beatstore
+
+13. app could possibly be an album curator
